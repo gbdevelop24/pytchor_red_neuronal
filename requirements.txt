@@ -1,0 +1,16 @@
+# Core Python libraries (usually pre-installed)
+os
+re
+logging
+subprocess
+unittest
+concurrent.futures
+collections
+json
+typing
+
+# External libraries
+requests==2.26.0
+colorama==0.4.4
+tqdm==4.62.3
+psutil==5.8.0

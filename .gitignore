@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+odoo_analyzer_env
 # C extensions
 *.so
 
