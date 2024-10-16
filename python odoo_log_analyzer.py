@@ -124,4 +124,5 @@ if __name__ == "__main__":
     ODOO_INSTALLATION_PATH = r"C:\Odoo17E\server"
 
     analyzer = OdooLogAnalyzer(ODOO_LOG_PATH, ODOO_INSTALLATION_PATH)
-    analyzer.run()
+    analyzer.run() 
+    
